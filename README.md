@@ -1,13 +1,13 @@
 # Assignment -2 
 
-- This is Assignment Related: The Docker Container 
+- Major goal of this Assignment is "The Docker Container"
 
 **ASSIGMENT TASK**
 
 - Install the Docker Container.
 - Create the Docker Container.
 - Write the Python Hello World Program and Wrap it in the Container.
-- Push the Container in the GitHub Repo.
+- Push the Container to the GitHub Repo.
 
 # Instructions:
 - To run the Docker File , you have Following Things.
